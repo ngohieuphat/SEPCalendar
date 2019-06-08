@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SEPCalendar",
+    "\\SEPCalendar\\Controllers",
+    "\\SEPCalendar\\Views",
+    "\\SEPCalendar\\Views\\Home"
   ],
+  "SelectedNode": "\\SEPCalendar\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
